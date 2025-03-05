@@ -1,5 +1,6 @@
 # ilove-ladakh
-
+<html>
+        <body>
         <div class="location section">
             <h2>Location of Ladakh</h2>
             <p>Ladakh is a union territory in northern India, located in the Himalayas. It shares borders with Tibet to the east, Himachal Pradesh to the south, Jammu & Kashmir to the west, and Pakistan-administered Gilgit-Baltistan to the northwest. The region is known for its high-altitude desert landscape, snow-capped peaks, and stunning valleys.</p>
@@ -101,9 +102,6 @@
             </ul>
         </div>
     <footer>
-       
-    
-
         <div class="importance section">
             <h2>Importance of Ladakh</h2>
             <p>Ladakh holds great significance from various perspectives, including geographical, cultural, environmental, and strategic importance:</p>
@@ -115,9 +113,6 @@
                 <li><strong>Tourism and Economy:</strong> Tourism is a major contributor to Ladakh’s economy, attracting trekkers, bikers, and spiritual seekers to its monasteries and scenic routes.</li>
                 <li><strong>Spiritual Hub:</strong> Monasteries like Hemis, Thiksey, and Alchi are key centers of Buddhist learning and meditation, drawing pilgrims and scholars.</li>
             </ul>
-        </div>
-    <footer>
-        &copy; 2025 All Rights Reserved | Ladakh Tourism
     </footer>
   <div class="food section">
             <h2>Food of Ladakh</h2>
@@ -144,6 +139,8 @@
                 <li><strong>Religious Diversity:</strong> While Buddhism is predominant, Ladakh is also home to Shia Muslims in Kargil and a small Hindu and Sikh population.</li>
             </ul>
         </div>
-
+  </div>
+    <footer>
+        &copy; 2025 All Rights Reserved | Ladakh Tourism
 </body>
 </html>
