@@ -1,5 +1,5 @@
 # ilove-ladakh
-</div>
+
         <div class="location section">
             <h2>Location of Ladakh</h2>
             <p>Ladakh is a union territory in northern India, located in the Himalayas. It shares borders with Tibet to the east, Himachal Pradesh to the south, Jammu & Kashmir to the west, and Pakistan-administered Gilgit-Baltistan to the northwest. The region is known for its high-altitude desert landscape, snow-capped peaks, and stunning valleys.</p>
